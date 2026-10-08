@@ -33,3 +33,4 @@ sobre `colegio_db` y ejecutar el resto del script (sin la línea `\c colegio_db;
 - **Carrera:** Ingeniería en Software
 - **Universidad:** Universidad Federico Henríquez y Carvajal (UFHEC), La Romana
 - **Profesora:** Miladys Rosario
+- **Repositorio:** https://github.com/ing-frank/colegio-db
